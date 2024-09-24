@@ -1,4 +1,5 @@
 # Raw: LAB1.1
+# [Xem trên GitHub](https://github.com/dinhkarate/IE104).
 ![image](https://github.com/user-attachments/assets/39f8ba9a-1553-4960-9655-2b96f68dd71d)
 ## Bước 1. Khối và cấu trúc nội dung
 ```
