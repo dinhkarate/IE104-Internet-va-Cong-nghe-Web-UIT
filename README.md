@@ -1,6 +1,6 @@
-#Raw: LAB1.1
+# Raw: LAB1.1
 ![image](https://github.com/user-attachments/assets/39f8ba9a-1553-4960-9655-2b96f68dd71d)
-##Bước 1. Khối và cấu trúc nội dung
+## Bước 1. Khối và cấu trúc nội dung
 ```
 <!-- MSSV: 22520252 -->
 <!-- Ho va ten: Pham Quang Dinh -->
@@ -97,7 +97,7 @@
 ```
 ![image](https://github.com/user-attachments/assets/201ff964-52dd-4544-9ede-397ab8a28f73)
 ![image](https://github.com/user-attachments/assets/75bce073-94a4-4c93-8766-1d9ba9144854)
-##Bước 2. Nội dung trong thư
+## Bước 2. Nội dung trong thư
 ```
 <!-- MSSV: 22520252 -->
 <!-- Ho va ten: Pham Quang Dinh -->
@@ -194,7 +194,7 @@
 ```
 ![image](https://github.com/user-attachments/assets/18be4406-df69-4ca2-851d-467ee00e27c7)
 ![image](https://github.com/user-attachments/assets/1c7efe1a-3f5f-40d9-bd4d-fa3a89b13385)
-##Bước 3. Phần nội dung thẻ <head> của tập tin
+## Bước 3. Phần nội dung thẻ <head> của tập tin
 ```
 <!-- MSSV: 22520252 -->
 <!-- Ho va ten: Pham Quang Dinh -->
@@ -294,9 +294,9 @@
 ![image](https://github.com/user-attachments/assets/2e1a45a9-51f5-432a-b374-3f1aad810d7b)
 
 
-#Raw: LAB1.2
+# Raw: LAB1.2
 ![image](https://github.com/user-attachments/assets/0a570117-d590-4069-9696-0ad01700cadb)
-##Bước 1. 
+## Bước 1. 
 ```
 <!DOCTYPE html>
 <html lang="en-US">
@@ -348,7 +348,7 @@
 </html>
 ```
 ![image](https://github.com/user-attachments/assets/bb5b8632-1720-4928-89fd-637eefe4d7c6)
-##Bước 2. 
+## Bước 2. 
 ```
 <!DOCTYPE html>
 <html lang="en-US">
