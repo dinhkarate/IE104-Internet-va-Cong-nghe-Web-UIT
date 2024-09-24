@@ -347,7 +347,8 @@
   </body>
 </html>
 ```
-![image](https://github.com/user-attachments/assets/bb5b8632-1720-4928-89fd-637eefe4d7c6)
+![image](https://github.com/user-attachments/assets/2ff90330-4e14-4833-9723-6cffc1b1b52e)
+
 ## Bước 2. 
 ```
 <!DOCTYPE html>
@@ -407,6 +408,7 @@
   </body>
 </html>
 ```
-![image](https://github.com/user-attachments/assets/5e94c826-8c4c-4acf-955d-0557040cebda)
+![image](https://github.com/user-attachments/assets/ecbf1b4f-3545-4070-b6e4-f7dff1d9eae3)
+
 
 
