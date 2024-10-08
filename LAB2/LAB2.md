@@ -26,7 +26,8 @@
 ## Bước 5: Hình con gấu trúc đỏ
 
 ![image](https://github.com/user-attachments/assets/03b76a42-8c98-4bf9-8fbb-04d0d020382e)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f2684b37-8396-4610-95fe-1a3ebfbf3034)
+
 
 
 **Sourcce**
