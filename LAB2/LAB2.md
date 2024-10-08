@@ -198,3 +198,19 @@
 ```
 
 # LAB2.2
+## Bước 1.
+![image](https://github.com/user-attachments/assets/9ecaa6d7-a57e-4741-bcdf-34ef51a225d4)
+
+## Bước 2.
+![image](https://github.com/user-attachments/assets/dac3d3e6-584a-4270-bdfb-71ce522196ca)
+
+## Bước 3.
+![image](https://github.com/user-attachments/assets/6517e0ae-4cf9-456a-badb-67201916108b)
+
+
+## Bước 4.
+![image](https://github.com/user-attachments/assets/a8330c23-4d2f-40b0-97a2-b639a9bd1ea7)
+
+
+## Bước 5, 6, 7.
+![image](https://github.com/user-attachments/assets/6f1e9e3a-31c0-4476-892e-f5a36e6dbbd3)
