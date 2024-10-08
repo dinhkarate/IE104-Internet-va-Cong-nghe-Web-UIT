@@ -1,20 +1,23 @@
-![image](https://github.com/user-attachments/assets/b2dce948-932f-41ec-a031-d7de43c44d81)![image](https://github.com/user-attachments/assets/acf9b46e-dcd3-4b32-b897-1ba90b87b09f)# LAB2.1
+# LAB2.1
 ## Bước 1: Chuẩn bị hình ảnh
 ![image](https://github.com/user-attachments/assets/84cd070a-29d3-4473-bc2c-c2387731fe65)
 
 ## Bước 2: Thêm logo vào phần tiêu đề (header)
 ![image](https://github.com/user-attachments/assets/2d6747c5-7def-4b03-8dea-7c38d3b91b8f)
 **Code**
+
 ![image](https://github.com/user-attachments/assets/a934dc60-e072-49c7-85a7-d243e1270963)
 
 ## Bước 3: Thêm Video vào phần nội dung chính
 ![image](https://github.com/user-attachments/assets/a7251ac7-8b92-4495-b8d5-0760c098f2eb)
 **Code**
+
 ![image](https://github.com/user-attachments/assets/5e7fa353-f6ab-4a59-a0d8-3677a3ee8710)
 
 ## Bước 4: Thêm hình ảnh đáp ứng và các liên kết thông tin khác
 ![image](https://github.com/user-attachments/assets/952b8cbf-d231-43dd-a244-89c5cb20c6c9)
 **Code**
+
 ![image](https://github.com/user-attachments/assets/b32a8e87-8810-417d-9d3e-04f9b8b22f01)
 ![image](https://github.com/user-attachments/assets/f6408203-bdb3-4c4f-b26a-d3a197419874)
 
