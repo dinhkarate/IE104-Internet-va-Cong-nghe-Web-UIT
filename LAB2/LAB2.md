@@ -1,5 +1,6 @@
 ### MSSV: 22520252
 ### Họ và tên: Phạm Quang Dinh
+### [Link to LAB2 on GitHub](https://github.com/dinhkarate/IE104-Internet-va-Cong-nghe-Web-UIT/edit/main/LAB2/LAB2.md)
 # LAB2.1
 ## Bước 1: Chuẩn bị hình ảnh
 ![image](https://github.com/user-attachments/assets/84cd070a-29d3-4473-bc2c-c2387731fe65)
