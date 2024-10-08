@@ -1,3 +1,5 @@
+### MSSV: 22520252
+### Phạm Quang Dinh
 # LAB2.1
 ## Bước 1: Chuẩn bị hình ảnh
 ![image](https://github.com/user-attachments/assets/84cd070a-29d3-4473-bc2c-c2387731fe65)
@@ -189,3 +191,5 @@
   </body>
 </html>
 ```
+
+# LAB2.2
