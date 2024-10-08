@@ -1,5 +1,5 @@
 ### MSSV: 22520252
-### Phạm Quang Dinh
+### Họ và tên: Phạm Quang Dinh
 # LAB2.1
 ## Bước 1: Chuẩn bị hình ảnh
 ![image](https://github.com/user-attachments/assets/84cd070a-29d3-4473-bc2c-c2387731fe65)
@@ -23,8 +23,12 @@
 ![image](https://github.com/user-attachments/assets/b32a8e87-8810-417d-9d3e-04f9b8b22f01)
 ![image](https://github.com/user-attachments/assets/f6408203-bdb3-4c4f-b26a-d3a197419874)
 
-## Final
-![image](https://github.com/user-attachments/assets/f6ee70b2-7c9a-44b9-b800-58feae1032e6)
+## Bước 5: Hình con gấu trúc đỏ
+
+![image](https://github.com/user-attachments/assets/03b76a42-8c98-4bf9-8fbb-04d0d020382e)
+![Uploading image.png…]()
+
+
 **Sourcce**
 ```
 <!DOCTYPE html>
