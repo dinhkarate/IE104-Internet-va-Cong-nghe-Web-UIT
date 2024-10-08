@@ -3,31 +3,31 @@
 ### [Link to LAB2 on GitHub](https://github.com/dinhkarate/IE104-Internet-va-Cong-nghe-Web-UIT/edit/main/LAB2/LAB2.md)
 # LAB2.1
 ## Bước 1: Chuẩn bị hình ảnh
-![image](https://github.com/user-attachments/assets/84cd070a-29d3-4473-bc2c-c2387731fe65)
+![image](https://github.com/user-attachments/assets/84cd070a-29d3-4473-bc2c-c2387731fe65){width=300px height=200px}
 
 ## Bước 2: Thêm logo vào phần tiêu đề (header)
-![image](https://github.com/user-attachments/assets/2d6747c5-7def-4b03-8dea-7c38d3b91b8f)
+![image](https://github.com/user-attachments/assets/2d6747c5-7def-4b03-8dea-7c38d3b91b8f){width=300px height=200px}
 **Code**
 
-![image](https://github.com/user-attachments/assets/a934dc60-e072-49c7-85a7-d243e1270963)
+![image](https://github.com/user-attachments/assets/a934dc60-e072-49c7-85a7-d243e1270963){width=300px height=200px}
 
 ## Bước 3: Thêm Video vào phần nội dung chính
-![image](https://github.com/user-attachments/assets/a7251ac7-8b92-4495-b8d5-0760c098f2eb)
+![image](https://github.com/user-attachments/assets/a7251ac7-8b92-4495-b8d5-0760c098f2eb){width=300px height=200px}
 **Code**
 
-![image](https://github.com/user-attachments/assets/5e7fa353-f6ab-4a59-a0d8-3677a3ee8710)
+![image](https://github.com/user-attachments/assets/5e7fa353-f6ab-4a59-a0d8-3677a3ee8710){width=300px height=200px}
 
 ## Bước 4: Thêm hình ảnh đáp ứng và các liên kết thông tin khác
-![image](https://github.com/user-attachments/assets/952b8cbf-d231-43dd-a244-89c5cb20c6c9)
+![image](https://github.com/user-attachments/assets/952b8cbf-d231-43dd-a244-89c5cb20c6c9){width=300px height=200px}
 **Code**
 
-![image](https://github.com/user-attachments/assets/b32a8e87-8810-417d-9d3e-04f9b8b22f01)
-![image](https://github.com/user-attachments/assets/f6408203-bdb3-4c4f-b26a-d3a197419874)
+![image](https://github.com/user-attachments/assets/b32a8e87-8810-417d-9d3e-04f9b8b22f01){width=300px height=200px}
+![image](https://github.com/user-attachments/assets/f6408203-bdb3-4c4f-b26a-d3a197419874){width=300px height=200px}
 
 ## Bước 5: Hình con gấu trúc đỏ
 
-![image](https://github.com/user-attachments/assets/03b76a42-8c98-4bf9-8fbb-04d0d020382e)
-![image](https://github.com/user-attachments/assets/f2684b37-8396-4610-95fe-1a3ebfbf3034)
+![image](https://github.com/user-attachments/assets/03b76a42-8c98-4bf9-8fbb-04d0d020382e){width=300px height=200px}
+![image](https://github.com/user-attachments/assets/f2684b37-8396-4610-95fe-1a3ebfbf3034){width=300px height=200px}
 
 
 
@@ -200,21 +200,21 @@
 
 # LAB2.2
 ## Bước 1.
-![image](https://github.com/user-attachments/assets/9ecaa6d7-a57e-4741-bcdf-34ef51a225d4)
+![image](https://github.com/user-attachments/assets/9ecaa6d7-a57e-4741-bcdf-34ef51a225d4){width=300px height=200px}
 
 ## Bước 2.
-![image](https://github.com/user-attachments/assets/dac3d3e6-584a-4270-bdfb-71ce522196ca)
+![image](https://github.com/user-attachments/assets/dac3d3e6-584a-4270-bdfb-71ce522196ca){width=300px height=200px}
 
 ## Bước 3.
-![image](https://github.com/user-attachments/assets/6517e0ae-4cf9-456a-badb-67201916108b)
+![image](https://github.com/user-attachments/assets/6517e0ae-4cf9-456a-badb-67201916108b){width=300px height=200px}
 
 
 ## Bước 4.
-![image](https://github.com/user-attachments/assets/a8330c23-4d2f-40b0-97a2-b639a9bd1ea7)
+![image](https://github.com/user-attachments/assets/a8330c23-4d2f-40b0-97a2-b639a9bd1ea7){width=300px height=200px}
 
 
 ## Bước 5, 6, 7.
-![image](https://github.com/user-attachments/assets/6f1e9e3a-31c0-4476-892e-f5a36e6dbbd3)
+![image](https://github.com/user-attachments/assets/6f1e9e3a-31c0-4476-892e-f5a36e6dbbd3){width=300px height=200px}
 
 **Source**
 ```
